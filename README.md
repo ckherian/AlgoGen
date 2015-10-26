@@ -1,6 +1,8 @@
 # AlgoGen
 Genetic algorithm in Pascal to solve a salesman problem, project done in 2003
 
+
+
 Project description and results in French:
 
 
@@ -8,7 +10,6 @@ Project description and results in French:
 Algorithmes génétiques appliqués à un problème d’affectation
 
 
-Catherine KHERIAN – 2002/2003
 
 
  
